@@ -15,10 +15,15 @@ Aplikasi pembaca buku digital berbasis mobile yang dikembangkan sebagai proyek U
 
 ## 🛠️ Teknologi
 
-- React Native
+- React Native / Expo
 - React Navigation
 - Custom UI Components
 - JavaScript
+
+## 🔗 Link Terkait
+
+- **Desain Figma:** [Lihat Desain](https://www.figma.com/design/5taCJ4ZRdQfaMSXC6tKChK/Project-Nusapedia-PPM?node-id=0-1&t=2fmSPWX1tNxZRI5u-1)
+- **Video Demonstrasi:** [Tonton Demo](https://drive.google.com/drive/folders/1zw_McGskPPe4tuEgdG2mqFbz_BBM-REm)
 
 ## 📦 Instalasi dan Menjalankan Aplikasi
 
@@ -52,7 +57,7 @@ Beberapa fitur yang dapat dikembangkan pada iterasi selanjutnya:
 - Mode audiobook
 - Integrasi API perpustakaan digital eksternal
 
-## 👤 Author
+## 👤 Identitas Pengembang
 
 **Nama:** Salwa Aprilia Santi  
 **Kelas:** TI23F  
